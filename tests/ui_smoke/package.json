@@ -1,0 +1,6 @@
+{
+  "name": "ui-smoke",
+  "private": true,
+  "description": "Optional browser-less UI check of the dashboard (jsdom). Run: npm install && node ui_smoke.js http://127.0.0.1:8000",
+  "dependencies": { "jsdom": "^24.0.0" }
+}
